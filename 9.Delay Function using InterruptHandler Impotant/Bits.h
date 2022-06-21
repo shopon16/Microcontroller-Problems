@@ -1,0 +1,6 @@
+#define UIE_BIT_ENABLE (1<<0)
+#define UG_BIT_ENABLE (1<<0)
+#define CEN_BIT_ENABLE (1<<0)
+#define PA5_GENERAL_PURPOSE_OUTPUT (1<<10)
+#define GPIO_PORTA_ENABLE_BIT (1<<0)
+#define TIMER6_CLOCK_ENABLE (1<<4)
