@@ -21,7 +21,7 @@ void store_value_on_array(){
 
  
 // initialize the library with the numbers of the interface pins
-LiquidCrystal lcd(19,22, 23, 18, 17, 16, 15);    //GPIO pin intialize. Dont select GPIO6-11 for I/O
+LiquidCrystal lcd(15,2, 4, 3, 1, 22, 23);    //GPIO pin intialize. Dont select GPIO6-11 for I/O
  
 void setup() {
   // set up the LCD's number of columns and rows:
